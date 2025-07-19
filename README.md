@@ -1,30 +1,14 @@
-# MSc Cybersecurity Portfolio
+# MSc Cybersecurity Portfolio – Win Thu Min
 
-This repository showcases coursework, labs, and project reports completed as part of my MSc in Cybersecurity at the **National College of Ireland (NCI)**.
+This portfolio includes coursework and technical assessments completed during my MSc in Cybersecurity at the National College of Ireland (NCI).
 
----
+## 📁 Projects
 
-## 📁 Projects Included
+### [CAS – Cloud Architecture & Security](./CAS-Cloud-Security-Project/)
+Deploying and securing WordPress on AWS using LAMP stack. Includes security hardening, vulnerability scanning (Nmap, WPScan, Nikto, Nessus), and risk mitigation.
 
-### 🛡️ Cloud Architecture and Security Project (CAS)
-A complete WordPress deployment on AWS EC2 using LAMP stack, including:
-- Web server hardening (Apache, MySQL, PHP)
-- SSL/TLS configuration
-- Multi-factor authentication integration
-- Vulnerability scanning (Nmap, WPScan, Nikto, Nessus)
-- Risk evaluation and remediation actions
-- Final report available: `Cloud_Architecture_and_Security_Report.pdf`
-
----
-
-## 🛠️ Tools & Skills Demonstrated
-- **AWS EC2**, Linux, Apache, MySQL, PHP (LAMP)
-- **WordPress** Security Best Practices
-- **Vulnerability Assessment** with WPScan, Nmap, Nikto, Nessus
-- **Security Hardening**
-- **Firewall and SSL Configuration**
-- Cyber risk rating and report documentation
-
+### [PenTest – Network Security & Vulnerability Assessment](./PenTest-CA2/)
+Assessment of a campus-style network inspired by CoderDojo. Focus on CVEs from 2023–2025 and mitigation techniques using tools like Wireshark, Metasploit, Defender, and VLANs.
 ---
 
 ## 🔗 Contact
